@@ -1,3 +1,4 @@
+![image](https://github.com/mtofani/mtofani/assets/69044164/524372aa-61ef-4c5d-841d-e08aca4cc9a0)
 
 
 Hey there 👋, I'm [Maximiliano Tofani!](https://github.com/your-username)
