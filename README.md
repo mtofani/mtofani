@@ -1,8 +1,9 @@
-![image](https://github.com/mtofani/mtofani/assets/69044164/524372aa-61ef-4c5d-841d-e08aca4cc9a0)
 
 
 Hey there 👋, I'm [Maximiliano Tofani!](https://github.com/your-username)
 ----------------------------------------------------------------
+![image](https://github.com/mtofani/mtofani/assets/69044164/524372aa-61ef-4c5d-841d-e08aca4cc9a0)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/maximilianotofani)
 
