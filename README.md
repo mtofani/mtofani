@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://www.linkedin.com/in/maximilianotofani/overlay/background-image/" alt="Banner" style="max-width: 100%;">
+</div>
+
 Hey there 👋, I'm [Maximiliano Tofani!](https://github.com/your-username)
 ----------------------------------------------------------------
 
