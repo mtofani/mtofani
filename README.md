@@ -5,7 +5,7 @@ Hey there 👋, I'm [Maximiliano Tofani!](https://github.com/your-username)
 
 ### Glad to see you here!  
 
-I am a passionate **Solutions Architect** with a strong focus on **DevOps** and a deep love for **Research and Development (R&D)**. My mission is to transform innovative ideas into robust and scalable technological solutions.
+I am a passionate **Solutions Architect** with a strong focus on **DevOps** & **Cloud** and a deep love for **Research and Development (R&D)**. My mission is to transform innovative ideas into robust and scalable technological solutions.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not coding, you'll find me exploring new technologies, fueling my curiosity, or mentoring others.
 
