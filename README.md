@@ -26,6 +26,13 @@ Feel free to connect with me for all things tech or just to say hello! Let's sha
 
 ### 🚀 Technical Skills:
 
+**AI**:
+- AWS (SageMaker - BedRock)
+- LangChain
+- HuggingFace
+
+RAG & Finetuning
+
 **Automation & CI/CD**:
 
 -   CircleCI, GitHub Actions, GitLab, OpenShift
